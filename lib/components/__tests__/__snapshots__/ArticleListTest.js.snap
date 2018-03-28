@@ -21,12 +21,22 @@ exports[`ArticleList renders correctly 1`] = `
       }
     />
     <div
-      style={undefined}
+      style={
+        Object {
+          "color": "#888",
+          "fontSize": "0.8em",
+        }
+      }
     >
       Invalid Date
     </div>
     <div
-      style={undefined}
+      style={
+        Object {
+          "paddingBottom": 10,
+          "paddingTop": 10,
+        }
+      }
     >
       <a
         href={undefined}
@@ -61,12 +71,22 @@ exports[`ArticleList renders correctly 1`] = `
       }
     />
     <div
-      style={undefined}
+      style={
+        Object {
+          "color": "#888",
+          "fontSize": "0.8em",
+        }
+      }
     >
       Invalid Date
     </div>
     <div
-      style={undefined}
+      style={
+        Object {
+          "paddingBottom": 10,
+          "paddingTop": 10,
+        }
+      }
     >
       <a
         href={undefined}
